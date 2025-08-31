@@ -1,0 +1,22 @@
+name: measures_converter
+description: A Flutter app to convert units across multiple measures.
+publish_to: "none" # local project
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # add any extra packages if you plan to (none required for this assignment)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - assets/
